@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning With Python 
+Machine Learning Algorithms With Python 
